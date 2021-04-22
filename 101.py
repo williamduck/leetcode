@@ -4,6 +4,7 @@
 # @Author   : haichen.zhao@shopee.com
 # @File     : 101.py
 """
+101. Symmetric Tree
 Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
 """
 
